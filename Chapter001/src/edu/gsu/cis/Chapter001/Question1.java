@@ -5,7 +5,7 @@ public class Question1 {
     	System.out.println("Welcome to Java");
     	System.out.println("Welcome to computer science");
     	System.out.println("Programming is fun");
-    	System.out.print("5*5=25");
+    	System.out.println("5*5=25");
     	
     			
     }
